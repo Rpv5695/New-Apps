@@ -1,0 +1,5 @@
+{
+  "name": "Linguist Pro - AI Grammar & Casing Corrector",
+  "description": "A real-time writing assistant that detects casing errors, grammatical mistakes, and provides detailed explanations for corrections using the Gemini API.",
+  "requestFramePermissions": []
+}
